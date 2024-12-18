@@ -1,4 +1,6 @@
-## Hi there 👋
+## CEO / Founder of Sternenzelt Global 
+
+Hola, soy el fundador y CEO de Sternenzelt, una empresa dedicada al desarrollo e investigación tecnológica. Nuestro enfoque principal es el desarrollo de software. En este perfil, podrás explorar los repositorios personales en los que he estado trabajando, así como algunos proyectos de clientes.
 
 <!--
 **SternenzeltDev/SternenzeltDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
